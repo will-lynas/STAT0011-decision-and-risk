@@ -1,15 +1,3 @@
-# uv-notebook
+# STAT0011 - Decision and Risk
 
-A template repo for a python notebook using uv
-
-## Usage
-
-- Make a repo using this template
-- `uv sync`
-- `cursor .`
-- Run cell and choose `.venv` for python interpreter
-
-## Optional
-
-- Change `README.md`
-- Rename project in `pyproject.toml`
+My notes, visualisations, and experiments for UCL's STAT0011 module.
